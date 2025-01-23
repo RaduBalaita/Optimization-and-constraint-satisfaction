@@ -1,0 +1,9 @@
+,,,Best Fitness,Best Fitness,Best Fitness,Best Fitness
+,,,min,max,mean,std
+Function,Dimension,Algorithm,,,,
+Rastrigin,5,PopulationV3_SelfAdaptive_GPU,3.979836,13.929412,8.855124,3.646665
+Rastrigin,10,PopulationV3_SelfAdaptive_GPU,16.91429,40.793176,27.659794,7.530754
+Rosenbrock,5,PopulationV3_SelfAdaptive_GPU,0.000311,0.218257,0.040428,0.068835
+Rosenbrock,10,PopulationV3_SelfAdaptive_GPU,0.011941,4.587394,1.366756,1.409518
+Sphere,5,PopulationV3_SelfAdaptive_GPU,0.0,0.0,0.0,0.0
+Sphere,10,PopulationV3_SelfAdaptive_GPU,0.0,0.0,0.0,0.0
